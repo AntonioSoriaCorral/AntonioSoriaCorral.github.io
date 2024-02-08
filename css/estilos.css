@@ -1,7 +1,11 @@
-.encabezado {
-    color:brown;
+div {
+    color: rgb(34, 4, 4);
 }
 
-div {
-    color:rgb(34, 4, 4);
+.encabezado {
+    color: brown;
+}
+
+body {
+    color:bisque;
 }
