@@ -3,11 +3,11 @@ div {
 }
 
 .encabezado {
-    color: rgb(229, 226, 226);
+    color: rgb(231, 231, 231);
 }
 
 body {
-    background-color: darkslategrey;
+    color: rgb(7, 29, 29);
 
 }
 
@@ -17,5 +17,6 @@ body {
 }
 
 .encabezado h1 {
-    color:azure
+    color:rgb(45, 192, 192)
 }
+
