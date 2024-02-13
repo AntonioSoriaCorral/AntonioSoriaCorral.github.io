@@ -1,11 +1,21 @@
 div {
-    color: rgb(34, 4, 4);
+    color: rgb(230, 224, 224);
 }
 
 .encabezado {
-    color: brown;
+    color: rgb(229, 226, 226);
 }
 
 body {
-    color:bisque;
+    background-color: darkslategrey;
+
+}
+
+.cita {
+    font-style: italic;
+    color:azure
+}
+
+.encabezado h1 {
+    color:azure
 }
