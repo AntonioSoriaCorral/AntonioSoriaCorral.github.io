@@ -1,9 +1,9 @@
 div {
-    color: rgb(230, 224, 224);
+    color: rgb(0, 0, 0);
 }
 
 .encabezado {
-    color: rgb(231, 231, 231);
+    color: rgb(255, 0, 0);
 }
 
 body {
@@ -13,10 +13,10 @@ body {
 
 .cita {
     font-style: italic;
-    color:azure
+    color:rgb(134, 175, 175)
 }
 
 .encabezado h1 {
-    color:rgb(45, 192, 192)
+    color:rgb(71, 209, 209)
 }
 
